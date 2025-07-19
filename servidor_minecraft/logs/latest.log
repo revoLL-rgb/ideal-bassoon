@@ -1,40 +1,33 @@
-[17:07:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:07:10] [ServerMain/INFO]: No existing world data, creating new world
-[17:07:11] [ServerMain/INFO]: Loaded 1373 recipes
-[17:07:11] [ServerMain/INFO]: Loaded 1484 advancements
-[17:07:11] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[17:07:11] [Server thread/INFO]: Loading properties
-[17:07:11] [Server thread/INFO]: Default game type: SURVIVAL
-[17:07:11] [Server thread/INFO]: Generating keypair
-[17:07:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:07:11] [Server thread/INFO]: Using epoll channel type
-[17:07:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:07:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:07:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:07:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:07:11] [Server thread/INFO]: Preparing level "world"
-[17:07:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:07:18] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[17:07:19] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[17:07:19] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[17:07:19] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[17:07:20] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[17:07:20] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[17:07:21] [Worker-Main-3/INFO]: Preparing spawn area: 18%
-[17:07:21] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[17:07:22] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[17:07:22] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[17:07:23] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[17:07:23] [Server thread/INFO]: Time elapsed: 5122 ms
-[17:07:23] [Server thread/INFO]: Done (12.059s)! For help, type "help"
-[17:08:23] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[17:09:00] [Server thread/INFO]: revoLL_x[/127.203.85.81:46597] logged in with entity id 36 at (4.5, 65.0, 0.5)
-[17:09:00] [Server thread/INFO]: revoLL_x joined the game
-[17:09:35] [Server thread/INFO]: revoLL_x lost connection: Disconnected
-[17:09:35] [Server thread/INFO]: revoLL_x left the game
-[17:10:35] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[17:10:47] [Server thread/INFO]: revoLL_x[/127.203.85.81:58467] logged in with entity id 466 at (-18.625372016943288, 82.0, -13.034014495736209)
-[17:10:47] [Server thread/INFO]: revoLL_x joined the game
-[17:11:21] [Server thread/INFO]: revoLL_x lost connection: Disconnected
-[17:11:21] [Server thread/INFO]: revoLL_x left the game
-[17:12:21] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:27:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:27:54] [ServerMain/INFO]: Loaded 1373 recipes
+[17:27:54] [ServerMain/INFO]: Loaded 1484 advancements
+[17:27:54] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[17:27:54] [Server thread/INFO]: Loading properties
+[17:27:54] [Server thread/INFO]: Default game type: SURVIVAL
+[17:27:54] [Server thread/INFO]: Generating keypair
+[17:27:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:27:54] [Server thread/INFO]: Using epoll channel type
+[17:27:54] [Server thread/INFO]: Preparing level "world"
+[17:27:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:27:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:27:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:27:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:27:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:27:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:27:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:27:58] [Worker-Main-2/INFO]: Preparing spawn area: 12%
+[17:27:58] [Worker-Main-2/INFO]: Preparing spawn area: 85%
+[17:27:58] [Server thread/INFO]: Time elapsed: 3668 ms
+[17:27:58] [Server thread/INFO]: Done (4.039s)! For help, type "help"
+[17:28:42] [User Authenticator #1/INFO]: UUID of player revoLL_x is 5c37a744-c2b5-49b2-845b-263f2e757283
+[17:28:43] [Server thread/INFO]: revoLL_x[/127.203.85.81:35633] logged in with entity id 63 at (7.5, 88.0, -9.5)
+[17:28:43] [Server thread/INFO]: revoLL_x joined the game
+[17:34:35] [Server thread/INFO]: revoLL_x has made the advancement [Stone Age]
+[17:34:38] [Server thread/INFO]: revoLL_x has made the advancement [Sweet Dreams]
+[17:38:40] [Server thread/INFO]: revoLL_x lost connection: Disconnected
+[17:38:40] [Server thread/INFO]: revoLL_x left the game
+[17:39:40] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:45:23] [User Authenticator #2/INFO]: UUID of player revoLL_x is 5c37a744-c2b5-49b2-845b-263f2e757283
+[17:45:24] [Server thread/INFO]: revoLL_x[/127.203.85.81:39215] logged in with entity id 2436 at (-17.8047671136209, 74.0, -128.07395910580314)
+[17:45:24] [Server thread/INFO]: revoLL_x joined the game
+[17:46:29] [Server thread/INFO]: revoLL_x has made the advancement [Getting an Upgrade]
