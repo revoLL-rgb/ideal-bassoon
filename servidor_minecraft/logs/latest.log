@@ -1,45 +1,30 @@
-[17:27:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:27:54] [ServerMain/INFO]: Loaded 1373 recipes
-[17:27:54] [ServerMain/INFO]: Loaded 1484 advancements
-[17:27:54] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[17:27:54] [Server thread/INFO]: Loading properties
-[17:27:54] [Server thread/INFO]: Default game type: SURVIVAL
-[17:27:54] [Server thread/INFO]: Generating keypair
-[17:27:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:27:54] [Server thread/INFO]: Using epoll channel type
-[17:27:54] [Server thread/INFO]: Preparing level "world"
-[17:27:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:27:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:27:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:27:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:27:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:27:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:27:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:27:58] [Worker-Main-2/INFO]: Preparing spawn area: 12%
-[17:27:58] [Worker-Main-2/INFO]: Preparing spawn area: 85%
-[17:27:58] [Server thread/INFO]: Time elapsed: 3668 ms
-[17:27:58] [Server thread/INFO]: Done (4.039s)! For help, type "help"
-[17:28:42] [User Authenticator #1/INFO]: UUID of player revoLL_x is 5c37a744-c2b5-49b2-845b-263f2e757283
-[17:28:43] [Server thread/INFO]: revoLL_x[/127.203.85.81:35633] logged in with entity id 63 at (7.5, 88.0, -9.5)
-[17:28:43] [Server thread/INFO]: revoLL_x joined the game
-[17:34:35] [Server thread/INFO]: revoLL_x has made the advancement [Stone Age]
-[17:34:38] [Server thread/INFO]: revoLL_x has made the advancement [Sweet Dreams]
-[17:38:40] [Server thread/INFO]: revoLL_x lost connection: Disconnected
-[17:38:40] [Server thread/INFO]: revoLL_x left the game
-[17:39:40] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[17:45:23] [User Authenticator #2/INFO]: UUID of player revoLL_x is 5c37a744-c2b5-49b2-845b-263f2e757283
-[17:45:24] [Server thread/INFO]: revoLL_x[/127.203.85.81:39215] logged in with entity id 2436 at (-17.8047671136209, 74.0, -128.07395910580314)
-[17:45:24] [Server thread/INFO]: revoLL_x joined the game
-[17:46:29] [Server thread/INFO]: revoLL_x has made the advancement [Getting an Upgrade]
-[17:52:04] [Server thread/INFO]: revoLL_x has made the advancement [Monster Hunter]
-[17:56:31] [Server thread/INFO]: revoLL_x was slain by Zombie
-[17:57:28] [Server thread/INFO]: revoLL_x was slain by Zombie
-[17:57:51] [Server thread/INFO]: revoLL_x was slain by Zombie
-[18:00:09] [Server thread/INFO]: revoLL_x was burned to a crisp while fighting Skeleton
-[18:03:30] [Server thread/INFO]: <revoLL_x> ygay
-[18:03:33] [Server thread/INFO]: <revoLL_x> gay
-[18:10:02] [Server thread/INFO]: revoLL_x has made the advancement [Acquire Hardware]
-[18:10:16] [Server thread/INFO]: revoLL_x has made the advancement [Suit Up]
-[18:10:55] [Server thread/INFO]: revoLL_x has made the advancement [Isn't It Iron Pick]
-[18:14:43] [Server thread/INFO]: revoLL_x lost connection: Disconnected
-[18:14:43] [Server thread/INFO]: revoLL_x left the game
+[18:37:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:37:22] [ServerMain/INFO]: Loaded 1373 recipes
+[18:37:22] [ServerMain/INFO]: Loaded 1484 advancements
+[18:37:22] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[18:37:22] [Server thread/INFO]: Loading properties
+[18:37:22] [Server thread/INFO]: Default game type: SURVIVAL
+[18:37:22] [Server thread/INFO]: Generating keypair
+[18:37:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:37:23] [Server thread/INFO]: Using epoll channel type
+[18:37:23] [Server thread/INFO]: Preparing level "world"
+[18:37:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:37:25] [User Authenticator #1/INFO]: UUID of player revoLL_x is 5c37a744-c2b5-49b2-845b-263f2e757283
+[18:37:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:37:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:37:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:37:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:37:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:37:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:37:26] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[18:37:26] [Worker-Main-2/INFO]: Preparing spawn area: 53%
+[18:37:27] [Server thread/INFO]: Time elapsed: 3732 ms
+[18:37:27] [Server thread/INFO]: Done (3.990s)! For help, type "help"
+[18:37:27] [Server thread/INFO]: revoLL_x[/127.203.85.81:49195] logged in with entity id 14 at (-18.531921364395668, 74.0, -126.1465716711453)
+[18:37:27] [Server thread/INFO]: revoLL_x joined the game
+[18:37:39] [Server thread/INFO]: revoLL_x lost connection: Disconnected
+[18:37:39] [Server thread/INFO]: revoLL_x left the game
+[18:37:41] [User Authenticator #2/INFO]: UUID of player revoLL_x is 5c37a744-c2b5-49b2-845b-263f2e757283
+[18:37:42] [Server thread/INFO]: revoLL_x[/127.203.85.81:59793] logged in with entity id 252 at (-15.563794490460786, 72.0, -133.2346972454142)
+[18:37:42] [Server thread/INFO]: revoLL_x joined the game
+[18:41:30] [Server thread/INFO]: revoLL_x was blown up by Creeper
