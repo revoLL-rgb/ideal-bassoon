@@ -24,3 +24,16 @@
 [16:48:37] [Server thread/INFO]: revoLL_x was blown up by Creeper
 [16:49:24] [Server thread/INFO]: revoLL_x was shot by Skeleton
 [16:53:09] [Server thread/INFO]: revoLL_x drowned
+[16:55:22] [Server thread/INFO]: revoLL_x lost connection: Disconnected
+[16:55:22] [Server thread/INFO]: revoLL_x left the game
+[16:55:34] [Server thread/INFO]: Stopping the server
+[16:55:34] [Server thread/INFO]: Stopping server
+[16:55:34] [Server thread/INFO]: Saving players
+[16:55:34] [Server thread/INFO]: Saving worlds
+[16:55:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:55:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:55:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:55:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:55:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:55:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:55:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
