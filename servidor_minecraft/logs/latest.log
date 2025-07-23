@@ -23,3 +23,11 @@
 [16:27:29] [Server thread/INFO]: revoLL_x has made the advancement [Sweet Dreams]
 [16:27:52] [Server thread/INFO]: revoLL_x has made the advancement [Monster Hunter]
 [16:27:55] [Server thread/INFO]: revoLL_x has made the advancement [Acquire Hardware]
+[16:50:20] [Server thread/INFO]: revoLL_x lost connection: Disconnected
+[16:50:20] [Server thread/INFO]: revoLL_x left the game
+[16:50:38] [User Authenticator #2/INFO]: UUID of player revoLL_x is 5c37a744-c2b5-49b2-845b-263f2e757283
+[16:50:39] [Server thread/INFO]: revoLL_x[/127.203.85.81:52949] logged in with entity id 6942 at (-146.519811047149, 75.0, 245.72072460682003)
+[16:50:39] [Server thread/INFO]: revoLL_x joined the game
+[16:51:02] [User Authenticator #3/INFO]: Disconnecting siriboh (/127.123.239.200:57133): Failed to verify username!
+[16:51:02] [User Authenticator #3/ERROR]: Username 'siriboh' tried to join with an invalid session
+[16:51:03] [Server thread/INFO]: siriboh (/127.123.239.200:57133) lost connection: Failed to verify username!
