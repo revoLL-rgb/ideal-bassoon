@@ -6,7 +6,7 @@
   },
   "tunnels": [
     {
-      "active": false,
+      "active": true,
       "alloc": {
         "data": {
           "assigned_domain": "windows-silk.gl.joinmc.link",

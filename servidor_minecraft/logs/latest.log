@@ -1,46 +1,41 @@
-[16:22:03] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:22:05] [ServerMain/INFO]: Loaded 1407 recipes
-[16:22:05] [ServerMain/INFO]: Loaded 1520 advancements
-[16:22:05] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[16:22:05] [Server thread/INFO]: Loading properties
-[16:22:05] [Server thread/INFO]: Default game type: SURVIVAL
-[16:22:05] [Server thread/INFO]: Generating keypair
-[16:22:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:22:05] [Server thread/INFO]: Using epoll channel type
-[16:22:05] [Server thread/INFO]: Preparing level "world"
-[16:22:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:22:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[16:22:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[16:22:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[16:22:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[16:22:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[16:22:08] [Worker-Main-2/INFO]: Preparing spawn area: 12%
-[16:22:08] [Server thread/INFO]: Time elapsed: 2749 ms
-[16:22:08] [Server thread/INFO]: Done (3.055s)! For help, type "help"
-[16:23:01] [User Authenticator #1/INFO]: UUID of player revoLL_x is 5c37a744-c2b5-49b2-845b-263f2e757283
-[16:23:02] [Server thread/INFO]: revoLL_x[/127.203.85.81:56713] logged in with entity id 10 at (-281.21169938507734, 67.0, 167.42112626567302)
-[16:23:02] [Server thread/INFO]: revoLL_x joined the game
-[16:27:29] [Server thread/INFO]: revoLL_x has made the advancement [Sweet Dreams]
-[16:27:52] [Server thread/INFO]: revoLL_x has made the advancement [Monster Hunter]
-[16:27:55] [Server thread/INFO]: revoLL_x has made the advancement [Acquire Hardware]
-[16:50:20] [Server thread/INFO]: revoLL_x lost connection: Disconnected
-[16:50:20] [Server thread/INFO]: revoLL_x left the game
-[16:50:38] [User Authenticator #2/INFO]: UUID of player revoLL_x is 5c37a744-c2b5-49b2-845b-263f2e757283
-[16:50:39] [Server thread/INFO]: revoLL_x[/127.203.85.81:52949] logged in with entity id 6942 at (-146.519811047149, 75.0, 245.72072460682003)
-[16:50:39] [Server thread/INFO]: revoLL_x joined the game
-[16:51:02] [User Authenticator #3/INFO]: Disconnecting siriboh (/127.123.239.200:57133): Failed to verify username!
-[16:51:02] [User Authenticator #3/ERROR]: Username 'siriboh' tried to join with an invalid session
-[16:51:03] [Server thread/INFO]: siriboh (/127.123.239.200:57133) lost connection: Failed to verify username!
-[16:52:20] [Server thread/INFO]: revoLL_x lost connection: Disconnected
-[16:52:20] [Server thread/INFO]: revoLL_x left the game
-[16:52:25] [Server thread/INFO]: Stopping the server
-[16:52:25] [Server thread/INFO]: Stopping server
-[16:52:25] [Server thread/INFO]: Saving players
-[16:52:25] [Server thread/INFO]: Saving worlds
-[16:52:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:52:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[16:52:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[16:52:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:52:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:52:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:52:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:55:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:55:51] [ServerMain/INFO]: Loaded 1407 recipes
+[16:55:51] [ServerMain/INFO]: Loaded 1520 advancements
+[16:55:51] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[16:55:51] [Server thread/INFO]: Loading properties
+[16:55:51] [Server thread/INFO]: Default game type: SURVIVAL
+[16:55:51] [Server thread/INFO]: Generating keypair
+[16:55:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:55:51] [Server thread/INFO]: Using epoll channel type
+[16:55:51] [Server thread/INFO]: Preparing level "world"
+[16:55:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:55:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:55:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:55:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:55:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:55:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:55:54] [Server thread/INFO]: Time elapsed: 2360 ms
+[16:55:54] [Server thread/INFO]: Done (2.682s)! For help, type "help"
+[16:56:00] [User Authenticator #1/INFO]: UUID of player revoLL_x is 5c37a744-c2b5-49b2-845b-263f2e757283
+[16:56:00] [Server thread/INFO]: revoLL_x[/127.203.85.81:42581] logged in with entity id 51 at (-200.90844007602203, 75.0, 245.1352443708711)
+[16:56:00] [Server thread/INFO]: revoLL_x joined the game
+[16:56:30] [Server thread/INFO]: revoLL_x lost connection: Disconnected
+[16:56:30] [Server thread/INFO]: revoLL_x left the game
+[16:57:30] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:04:16] [User Authenticator #2/INFO]: UUID of player revoLL_x is 5c37a744-c2b5-49b2-845b-263f2e757283
+[17:04:16] [Server thread/INFO]: revoLL_x[/127.203.85.81:45105] logged in with entity id 517 at (-245.06182499935915, 92.0, 256.65159055956286)
+[17:04:16] [Server thread/INFO]: revoLL_x joined the game
+[17:04:54] [Server thread/INFO]: revoLL_x lost connection: Disconnected
+[17:04:54] [Server thread/INFO]: revoLL_x left the game
+[17:05:54] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:05:54] [Server thread/INFO]: Stopping the server
+[17:05:54] [Server thread/INFO]: Stopping server
+[17:05:54] [Server thread/INFO]: Saving players
+[17:05:54] [Server thread/INFO]: Saving worlds
+[17:05:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:05:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:05:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:05:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:05:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:05:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:05:54] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
